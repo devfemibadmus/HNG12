@@ -1,0 +1,7 @@
+Node.js uses asynchronous programming, which is a core feature of JavaScript. It uses event-driven, non-blocking I/O to handle multiple tasks efficiently.
+
+it run asynchronous similar to fastapi(python)
+
+Node.js eliminates the waiting, and simply continues with the next request.
+
+Node.js runs single-threaded, non-blocking, asynchronous programming, which is very memory efficient.
