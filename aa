@@ -1,0 +1,9 @@
+node modules
+
+more like javascript library like a functions
+
+use the require() function with the name of the module:
+
+var http = require('http');
+
+now we can call its functions
